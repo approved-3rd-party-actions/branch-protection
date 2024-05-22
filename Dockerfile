@@ -1,4 +1,4 @@
-FROM golang:1.14-alpine
+FROM golang:1.20.11-alpine
 LABEL maintainer='Hatzel Renteria'
 
 WORKDIR /action
